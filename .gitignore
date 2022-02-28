@@ -1,0 +1,5 @@
+venv
+.ipynb_checkpoints
+.idea
+face_mini
+video
