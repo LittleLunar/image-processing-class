@@ -1,5 +1,5 @@
 # Image Processing class #
-This repo is used for storing source code from Image Processing Class
+This repo is used for storing source code from the course.
 
 ### List of contents ###
 - Image Acquisition and Digitalization
