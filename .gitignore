@@ -2,9 +2,13 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,python,obsidian
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,python,obsidian
 
-Animals
-face_mini
-Cat_Dog_Horse
+Animals/
+face_mini/
+Cat_Dog_Horse/
+Art_Image_dataset/
+*.h5
+*.png 
+*.jpg
 ### Linux ###
 *~
 
